@@ -1,0 +1,16 @@
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.DetectForm.resources
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.DeviceForm.resources
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.LogForm.resources
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.MainForm.resources
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.Properties.Resources.resources
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.SummaryForm.resources
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\GPS Diagnostics CF35 (CSharp).csproj.GenerateResource.Cache
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\bin\Debug\Diagnostics.exe
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\bin\Debug\Diagnostics.pdb
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\bin\Debug\GeoFramework.Gps.PocketPC.dll
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\bin\Debug\GeoFramework.PocketPC.dll
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\bin\Debug\GeoFramework.Gps.PocketPC.pdb
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\bin\Debug\GeoFramework.PocketPC.pdb
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.exe
+D:\Work\Tests\CompactFramework\GPS.Net 3.0.1\Examples\Compact Framework 3.5\C#\obj\Debug\Diagnostics.pdb
